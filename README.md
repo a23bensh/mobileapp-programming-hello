@@ -10,4 +10,4 @@ Jag bytte string namnet i "strings.xml" från "Hello" till "SchnitzelÄtarn":
 
 Skrämdump på "SchnitzelÄtarn" namn ändringen:
 
-![](android.png)
+![img.png](img.png)
