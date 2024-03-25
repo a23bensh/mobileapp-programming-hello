@@ -1,9 +1,7 @@
 
 # Rapport
 
-**Skriv din rapport här!**
-
-_Du kan ta bort all text som finns sedan tidigare_.
+Jag bytte string namnet i "strings.xml" från "Hello" till "SchnitzelÄtarn"
 
 ## Följande grundsyn gäller dugga-svar:
 
